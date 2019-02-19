@@ -1,6 +1,6 @@
 {
-    "name": "react-d3-graph-text",
-    "version": "2.0.0-rc2",
+    "name": "d3-graph-react-with-exposed-apis",
+    "version": "2.0.1",
     "description": "React component to build interactive and configurable graphs with d3 effortlessly",
     "author": "Andre Contreras",
     "license": "MIT",
