@@ -1,8 +1,8 @@
 {
-    "name": "react-d3-graph",
+    "name": "react-d3-graph-text",
     "version": "2.0.0-rc2",
     "description": "React component to build interactive and configurable graphs with d3 effortlessly",
-    "author": "Daniel Caldas",
+    "author": "Andre Contreras",
     "license": "MIT",
     "scripts": {
         "check": "npm run docs:lint && npm run lint && npm run test && npm run functional",
